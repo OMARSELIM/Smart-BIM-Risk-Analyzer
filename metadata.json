@@ -1,0 +1,5 @@
+{
+  "name": "Smart BIM Risk Analyzer",
+  "description": "AI-powered risk assessment tool for BIM projects, analyzing coordination, clash detection, and information delivery risks.",
+  "requestFramePermissions": []
+}
